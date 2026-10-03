@@ -86,8 +86,9 @@ End-to-end pipeline for cleaning and processing large datasets into analysis-rea
 <summary><b>📊 Stats & languages</b></summary>
 <br/>
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=0EA5E9&text_color=888888&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=888888" />
+<img src="profile-summary-card-output/dracula/0-profile-details.svg" />
+<img height="180" src="profile-summary-card-output/dracula/3-stats.svg" />
+<img height="180" src="profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </div>
 </details>
 
