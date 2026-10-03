@@ -21,6 +21,7 @@ class Shahad:
     studying   = "Master of Interdisciplinary Data Science @ Duke (2028)"
     background = "B.Sc. Computer Science, AI · King Abdulaziz University (First Honors)"
     experience = "Innovation & Transformation @ Petrolube Oil Co. (ADG Group)"
+    training   = ["Le Wagon × Saudi Digital Academy (Data Science)", "SDAIA AI Summer Champions", "KAUST Academy"]
     focus      = ["Machine Learning", "NLP", "Statistical Modeling", "Data Engineering"]
     fuel       = "specialty coffee ☕"
 ```
@@ -33,49 +34,60 @@ class Shahad:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Sukoon](#)
-EEG-based emotion recognition that classifies emotional states directly from brain signals.
+### 🏠 [Saudi Rent Analysis](https://github.com/parvxi/Saudi-rent-analysis)
+What makes rent expensive in Saudi cities? Scraped Aqar listings across Riyadh, Jeddah, Dammam & Al Khobar, cleaned and validated them, and trained a fair-rent model.
 
-`Signal Processing` `Deep Learning` `Python`
-
-🥈 **2nd place**, KAU Scientific Forum
+`Web Scraping` `Regression` `Docker` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 [Business Insights Engine](#)
-NLP + ML tool that turns raw user data into actionable business recommendations.
+### 🧠 [Sukoon](https://github.com/parvxi/Sukoon_System_App)
+Reads brain signals from a MUSE headset and translates them into emotions caregivers can understand, for patients who can't speak.
 
-`NLP` `Text Analytics` `scikit-learn`
+`EEG` `Machine Learning` `Flutter`
+
+🥈 **2nd place**, KAU Scientific Forum · [▶ Demo](https://www.youtube.com/watch?v=kxpMquB86Bw)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 [Company Success Predictor](#)
-Predictive model for company success metrics, built on custom feature engineering.
+### 📈 [Peaklytics](https://github.com/parvxi/Peaklytics)
+Predicts a business's likelihood of success and gives actionable recommendations. Team capstone for the Le Wagon × Saudi Digital Academy Data Science Bootcamp.
 
-`Feature Engineering` `Modeling` `pandas`
+`Classification` `Feature Engineering` `pandas`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧹 [High-Volume Data Pipeline](#)
-End-to-end pipeline for cleaning and processing large datasets into analysis-ready form.
+### 🔥 [Fire Detection](https://github.com/parvxi/Fire-Detection-Resnet50)
+Image classifier built on a ResNet-50 backbone with transfer learning, reaching over 95% accuracy.
 
-`Data Engineering` `Automation` `SQL`
+`Computer Vision` `Deep Learning` `CNN`
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+- 😴 **[Sleep, Stress & Lifestyle](https://github.com/parvxi/IDS706-Assignment2)**: which lifestyle factors line up with sleep quality; tested, Dockerized, with CI
+- 🧘 **[MindEase](https://github.com/parvxi/MindEase)**: ML app that detects stress from Emotiv EEG signals
+- 🤖 **[AI Topics Projects](https://github.com/parvxi/AI_Topics_Projects)**: car price regression and SVM customer-churn classifier
+- 📚 **Deep Learning Specialization** (SDAIA × Coursera): [Neural Networks](https://github.com/parvxi/Neural-Networks-and-Deep-Learning) · [CNNs](https://github.com/parvxi/Convolutional-Neural-Networks) · [Sequence Models](https://github.com/parvxi/NeuralNetwork-Sequence-Models)
+
+</details>
 
 <br/>
 
 ## ✦ Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,pytorch,tensorflow,sklearn,docker,git,github,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,pytorch,tensorflow,sklearn,fastapi,docker,flutter,git,github,vscode&theme=dark&perline=12" />
 </p>
 
 <br/>
@@ -86,9 +98,9 @@ End-to-end pipeline for cleaning and processing large datasets into analysis-rea
 <summary><b>📊 Stats & languages</b></summary>
 <br/>
 <div align="center">
-<img src="profile-summary-card-output/dracula/0-profile-details.svg" />
-<img height="180" src="profile-summary-card-output/dracula/3-stats.svg" />
-<img height="180" src="profile-summary-card-output/dracula/2-most-commit-language.svg" />
+<img src="https://raw.githubusercontent.com/parvxi/parvxi/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+<img height="180" src="https://raw.githubusercontent.com/parvxi/parvxi/main/profile-summary-card-output/dracula/3-stats.svg" />
+<img height="180" src="https://raw.githubusercontent.com/parvxi/parvxi/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </div>
 </details>
 
