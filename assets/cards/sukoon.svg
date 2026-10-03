@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#EEE6FB"/><stop offset="1" stop-color="#DCCCF6"/>
+  </linearGradient>
+  <clipPath id="r"><rect width="600" height="340" rx="24"/></clipPath>
+</defs>
+<style>
+  .float { animation: f 6s ease-in-out infinite; }
+  @keyframes f { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+  .pulse { animation: p 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes p { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+  .draw { stroke-dasharray: 900; animation: d 3s ease-out both; }
+  @keyframes d { from { stroke-dashoffset: 900; } to { stroke-dashoffset: 0; } }
+</style>
+<g clip-path="url(#r)" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="600" height="340" fill="url(#bg)"/>
+  <circle cx="540" cy="40" r="110" fill="#FFFFFF" opacity=".28"/>
+  <g class="float"><g transform="translate(380,70)">
+  <circle class="pulse" cx="95" cy="70" r="62" fill="#FFFFFF" opacity=".55"/>
+  <path d="M95,20 C60,18 42,40 46,62 C30,70 34,98 56,104 C62,122 86,124 95,112 C104,124 128,122 134,104 C156,98 160,70 144,62 C148,40 130,18 95,20Z"
+        fill="#E3D5F7" stroke="#A68BE0" stroke-width="3"/>
+  <path d="M95,24 L95,110 M70,44 C80,52 78,64 66,70 M120,44 C110,52 112,64 124,70 M64,86 C76,84 82,92 80,102 M126,86 C114,84 108,92 110,102"
+        fill="none" stroke="#A68BE0" stroke-width="2.5" stroke-linecap="round"/>
+  <g transform="translate(0,170)"><path class="draw" d="M0.0,-4.6 L3.0,-6.5 L6.0,-7.8 L9.0,-8.3 L12.0,-8.2 L15.0,-7.5 L18.0,-6.5 L21.0,-5.5 L24.0,-4.7 L27.0,-4.2 L30.0,-26.0 L33.0,-4.6 L36.0,-5.1 L39.0,-5.6 L42.0,-5.9 L45.0,-5.8 L48.0,-5.3 L51.0,-4.5 L54.0,-3.5 L57.0,-2.7 L60.0,-2.2 L63.0,-2.3 L66.0,-3.0 L69.0,-4.1 L72.0,-5.5 L75.0,-6.9 L78.0,5.9 L81.0,-8.5 L84.0,-8.4 L87.0,-7.6 L90.0,-6.2 L93.0,-4.6 L96.0,-2.8 L99.0,-1.2 L102.0,0.0 L105.0,0.9 L108.0,1.5 L111.0,2.0 L114.0,2.6 L117.0,3.5 L120.0,4.7 L123.0,6.4 L126.0,8.3 L129.0,10.3 L132.0,12.0 L135.0,13.3 L138.0,13.8 L141.0,13.5 L144.0,12.5 L147.0,11.0 L150.0,9.1 L153.0,7.3 L156.0,5.8 L159.0,4.7 L162.0,4.0 L165.0,3.6 L168.0,17.6 L171.0,3.2 L174.0,2.7 L177.0,19.8 L180.0,0.6 L183.0,-0.8 L186.0,-2.3 L189.0,-3.5" fill="none" stroke="#A68BE0" stroke-width="3" stroke-linecap="round"/></g>
+</g></g>
+  <text x="32" y="50" font-size="13" font-weight="700" fill="#8A6CCB" letter-spacing="2.5">PROJECT 02</text>
+  <text x="32" y="92" font-size="34" font-weight="800" fill="#3F3557" letter-spacing="-.5">Sukoon</text>
+  <text x="32" y="128" font-size="16" fill="#6B5E86">Turns EEG brain signals into emotions</text>
+  <text x="32" y="150" font-size="16" fill="#6B5E86">for patients who can't speak.</text>
+  <text x="32" y="222" font-size="46" font-weight="800" fill="#8A6CCB">2nd place</text>
+  <text x="32" y="250" font-size="14" font-weight="600" fill="#6B5E86">KAU Scientific Forum</text>
+  <rect x="32" y="282" width="52" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="58" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">EEG</text><rect x="92" y="282" width="52" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="118" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">ML</text><rect x="152" y="282" width="79" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="192" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">Flutter</text>
+</g>
+</svg>

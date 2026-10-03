@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FDE2EC"/><stop offset="1" stop-color="#F9D0E2"/>
+  </linearGradient>
+  <clipPath id="r"><rect width="600" height="340" rx="24"/></clipPath>
+</defs>
+<style>
+  .float { animation: f 6s ease-in-out infinite; }
+  @keyframes f { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+  .pulse { animation: p 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  @keyframes p { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+  .draw { stroke-dasharray: 900; animation: d 3s ease-out both; }
+  @keyframes d { from { stroke-dashoffset: 900; } to { stroke-dashoffset: 0; } }
+</style>
+<g clip-path="url(#r)" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="600" height="340" fill="url(#bg)"/>
+  <circle cx="540" cy="40" r="110" fill="#FFFFFF" opacity=".28"/>
+  <g class="float"><g transform="translate(380,110)"><rect x="0" y="40" width="34" height="110" rx="6" fill="#F49AC1" opacity=".9"/><path d="M-4,40 L17,22 L38,40Z" fill="#F49AC1"/><rect x="12" y="134" width="10" height="16" rx="2" fill="#FFFFFF" opacity=".8"/><rect x="46" y="62" width="34" height="88" rx="6" fill="#A68BE0" opacity=".9"/><path d="M42,62 L63,44 L84,62Z" fill="#A68BE0"/><rect x="58" y="134" width="10" height="16" rx="2" fill="#FFFFFF" opacity=".8"/><rect x="92" y="78" width="34" height="72" rx="6" fill="#7CC6B0" opacity=".9"/><path d="M88,78 L109,60 L130,78Z" fill="#7CC6B0"/><rect x="104" y="134" width="10" height="16" rx="2" fill="#FFFFFF" opacity=".8"/><rect x="138" y="84" width="34" height="66" rx="6" fill="#F6B38A" opacity=".9"/><path d="M134,84 L155,66 L176,84Z" fill="#F6B38A"/><rect x="150" y="134" width="10" height="16" rx="2" fill="#FFFFFF" opacity=".8"/><rect x="-10" y="150" width="200" height="4" rx="2" fill="#FFFFFF" opacity=".8"/></g></g>
+  <text x="32" y="50" font-size="13" font-weight="700" fill="#D9669A" letter-spacing="2.5">PROJECT 01</text>
+  <text x="32" y="92" font-size="34" font-weight="800" fill="#3F3557" letter-spacing="-.5">Saudi Rent Analysis</text>
+  <text x="32" y="128" font-size="16" fill="#6B5E86">What makes rent expensive in Saudi cities?</text>
+  <text x="32" y="150" font-size="16" fill="#6B5E86">Scraped Aqar listings, cleaned, modeled.</text>
+  <text x="32" y="222" font-size="46" font-weight="800" fill="#D9669A">59%</text>
+  <text x="32" y="250" font-size="14" font-weight="600" fill="#6B5E86">duplicate listings caught and removed</text>
+  <rect x="32" y="282" width="87" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="75" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">Scraping</text><rect x="126.8" y="282" width="102" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="178" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">Regression</text><rect x="236.8" y="282" width="72" height="30" rx="15" fill="#FFFFFF" opacity=".75"/><text x="273" y="302" font-size="14" font-weight="600" fill="#3F3557" text-anchor="middle">Docker</text>
+</g>
+</svg>
