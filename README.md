@@ -1,69 +1,102 @@
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,100:0EA5E9&text=Shahad%20Baalkhashir&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP&descAlignY=58&descSize=18&animation=fadeIn" />
+
 <div align="center">
 
-# Hi, I'm Shahad 👋
+### مرحبا 👋 I'm Shahad
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Data+Science+%40+Duke+University;Machine+Learning+%7C+NLP+%7C+AI;Turning+data+into+decisions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=MIDS+%40+Duke+University;From+brain+signals+to+business+insights;Building+AI+that+people+actually+use" alt="Typing SVG" /></a>
 
-**Master of Interdisciplinary Data Science (MIDS) @ Duke University** · Computer Science (AI) graduate · Jeddah 🇸🇦 → Durham 🇺🇸
-
-<a href="https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shahadhatemba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shahadhatemba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-22C55E?style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 🧭 About Me
+```python
+class Shahad:
+    based_in   = "Durham, NC  ←  Jeddah, Saudi Arabia"
+    studying   = "Master of Interdisciplinary Data Science @ Duke (2028)"
+    background = "B.Sc. Computer Science, AI · King Abdulaziz University (First Honors)"
+    experience = "Innovation & Transformation @ Petrolube Oil Co. (ADG Group)"
+    focus      = ["Machine Learning", "NLP", "Statistical Modeling", "Data Engineering"]
+    fuel       = "specialty coffee ☕"
+```
 
-I'm a data scientist in training with a background in **artificial intelligence** and real-world experience driving **digital transformation** in industry. I enjoy the whole journey from messy raw data to a model or insight that someone can actually act on.
+<br/>
 
-- 🎓 **Now:** MIDS student at **Duke University** (Class of 2028), studying statistical modeling, NLP, and data engineering
-- 🧠 **Background:** B.Sc. in Computer Science, AI specialization, from **King Abdulaziz University** (First Honors)
-- 🏭 **Experience:** Innovation & Transformation Assistant at **Petrolube Oil Company (ADG Group)**, working on innovation and transformation initiatives
-- 🚀 **KAUST Academy** alumna, including the Women in STEM program
-- 🎯 **Looking for:** Summer 2027 data science / ML internships
-- ☕ **Fun fact:** I'm a specialty coffee enthusiast
+## ✦ Featured Work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+### 🧠 [Sukoon](#)
+EEG-based emotion recognition that classifies emotional states directly from brain signals.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,pytorch,tensorflow,sklearn,docker,git,github,vscode&theme=dark" />
+`Signal Processing` `Deep Learning` `Python`
+
+🥈 **2nd place**, KAU Scientific Forum
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Business Insights Engine](#)
+NLP + ML tool that turns raw user data into actionable business recommendations.
+
+`NLP` `Text Analytics` `scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [Company Success Predictor](#)
+Predictive model for company success metrics, built on custom feature engineering.
+
+`Feature Engineering` `Modeling` `pandas`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 [High-Volume Data Pipeline](#)
+End-to-end pipeline for cleaning and processing large datasets into analysis-ready form.
+
+`Data Engineering` `Automation` `SQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,pytorch,tensorflow,sklearn,docker,git,github,vscode&theme=dark&perline=10" />
 </p>
 
-**Focus areas:** Machine Learning · Natural Language Processing · Statistical Modeling · Data Engineering · Signal Processing
+<br/>
 
----
+## ✦ Activity
 
-## 🌟 Featured Projects
-
-| Project | Description | Highlights |
-|---|---|---|
-| 🧠 **[Sukoon](#)** | EEG-based emotion recognition system that classifies emotional states from brain signals | 🥈 2nd place, KAU Scientific Forum · Team graduation project |
-| 📈 **[Predictive Modeling](#)** | Model predicting company success metrics with custom feature engineering and preprocessing | Feature engineering · Model evaluation |
-| 🧹 **[Data Cleaning Pipeline](#)** | End-to-end pipeline for processing high-volume data and extracting insights | Automation · Scalable processing |
-| 💡 **[Business Insights Tool](#)** | NLP + ML tool that generates actionable business insights from user data | NLP · Text analytics |
-
----
-
-## 📊 GitHub Activity
+<details>
+<summary><b>📊 Stats & languages</b></summary>
+<br/>
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=0EA5E9&text_color=888888&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=888888" />
+</div>
+</details>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=parvxi&theme=tokyonight&hide_border=true" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parvxi/parvxi/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/parvxi/parvxi/output/github-snake.svg" />
+</picture>
 </div>
 
----
-
-<div align="center">
-
-*"Data is not just numbers; it's the key to unlocking powerful insights and making a difference."*
-
-⭐ Thanks for stopping by!
-
-</div>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0EA5E9,100:6D28D9&section=footer" />
