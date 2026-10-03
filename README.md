@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### مرحبا 🌷 I'm Shahad
+### مرحبا 🫧 I'm Shahad
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A68BE0&center=true&vCenter=true&width=560&lines=MIDS+%40+Duke+University;From+brain+signals+to+business+insights;Building+AI+that+people+actually+use" alt="Typing SVG" /></a>
 
@@ -16,7 +16,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/divider.svg" />
 
-## 🌷 About Me
+## ⭐️ About Me
 
 I'm a data scientist in training at Duke, with a Computer Science degree in AI and industry experience in digital transformation. I like questions grounded in real life: what drives rent in Saudi cities, what stress does to sleep, and how brain signals can give a voice to patients who can't speak. I'm looking for data science and machine learning internships for Summer 2027.
 
