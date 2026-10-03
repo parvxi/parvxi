@@ -1,19 +1,24 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,100:0EA5E9&text=Shahad%20Baalkhashir&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20NLP&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/header.svg" alt="Shahad Baalkhashir · Data Science · Machine Learning · NLP" />
 
 <div align="center">
 
-### مرحبا 👋 I'm Shahad
+### مرحبا 🌷 I'm Shahad
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=MIDS+%40+Duke+University;From+brain+signals+to+business+insights;Building+AI+that+people+actually+use" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A68BE0&center=true&vCenter=true&width=560&lines=MIDS+%40+Duke+University;From+brain+signals+to+business+insights;Building+AI+that+people+actually+use" alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shahadhatemba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Open%20to-Summer%202027%20Internships-22C55E?style=flat-square" />
+<a href="https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/"><img src="https://img.shields.io/badge/LinkedIn-C7E3FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:shahadhatemba@gmail.com"><img src="https://img.shields.io/badge/Email-F9D5E5?style=for-the-badge&logo=gmail&logoColor=D44638" /></a>
+<img src="https://img.shields.io/badge/Duke_MIDS-E3D5F7?style=for-the-badge&logoColor=3F3557" />
+<img src="https://img.shields.io/badge/Open_to_Summer_2027_Internships-BFEBD9?style=for-the-badge" />
 
 </div>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/divider.svg" />
+
+## 🌷 About Me
+
+I'm a data scientist in training at Duke, with a Computer Science degree in AI and industry experience in digital transformation. I like questions grounded in real life: what drives rent in Saudi cities, what stress does to sleep, and how brain signals can give a voice to patients who can't speak. I'm looking for data science and machine learning internships for Summer 2027.
 
 ```python
 class Shahad:
@@ -26,73 +31,43 @@ class Shahad:
     fuel       = "specialty coffee ☕"
 ```
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/divider.svg" />
 
-## ✦ Featured Work
+## 🌸 Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/parvxi/Saudi-rent-analysis"><img width="49%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/cards/saudi-rent.svg" alt="Saudi Rent Analysis" /></a>
+  <a href="https://github.com/parvxi/Sukoon_System_App"><img width="49%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/cards/sukoon.svg" alt="Sukoon" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/parvxi/Peaklytics"><img width="49%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/cards/peaklytics.svg" alt="Peaklytics" /></a>
+  <a href="https://github.com/parvxi/Fire-Detection-Resnet50"><img width="49%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/cards/fire-detection.svg" alt="Fire Detection" /></a>
+</p>
 
-### 🏠 [Saudi Rent Analysis](https://github.com/parvxi/Saudi-rent-analysis)
-What makes rent expensive in Saudi cities? Scraped Aqar listings across Riyadh, Jeddah, Dammam & Al Khobar, cleaned and validated them, and trained a fair-rent model.
-
-`Web Scraping` `Regression` `Docker` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Sukoon](https://github.com/parvxi/Sukoon_System_App)
-Reads brain signals from a MUSE headset and translates them into emotions caregivers can understand, for patients who can't speak.
-
-`EEG` `Machine Learning` `Flutter`
-
-🥈 **2nd place**, KAU Scientific Forum · [▶ Demo](https://www.youtube.com/watch?v=kxpMquB86Bw)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [Peaklytics](https://github.com/parvxi/Peaklytics)
-Predicts a business's likelihood of success and gives actionable recommendations. Team capstone for the Le Wagon × Saudi Digital Academy Data Science Bootcamp.
-
-`Classification` `Feature Engineering` `pandas`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 [Fire Detection](https://github.com/parvxi/Fire-Detection-Resnet50)
-Image classifier built on a ResNet-50 backbone with transfer learning, reaching over 95% accuracy.
-
-`Computer Vision` `Deep Learning` `CNN`
-
-</td>
-</tr>
-</table>
+<p align="center"><sub>Click a card to open the project · ▶ <a href="https://www.youtube.com/watch?v=kxpMquB86Bw">Watch the Sukoon demo</a></sub></p>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>🫧 More projects</b></summary>
 <br/>
 
-- 😴 **[Sleep, Stress & Lifestyle](https://github.com/parvxi/IDS706-Assignment2)**: which lifestyle factors line up with sleep quality; tested, Dockerized, with CI
+- 😴 **[Sleep, Stress & Lifestyle](https://github.com/parvxi/IDS706-Assignment2)**: which lifestyle factors line up with sleep quality (R² 0.93); tested, Dockerized, with CI
 - 🧘 **[MindEase](https://github.com/parvxi/MindEase)**: ML app that detects stress from Emotiv EEG signals
 - 🤖 **[AI Topics Projects](https://github.com/parvxi/AI_Topics_Projects)**: car price regression and SVM customer-churn classifier
 - 📚 **Deep Learning Specialization** (SDAIA × Coursera): [Neural Networks](https://github.com/parvxi/Neural-Networks-and-Deep-Learning) · [CNNs](https://github.com/parvxi/Convolutional-Neural-Networks) · [Sequence Models](https://github.com/parvxi/NeuralNetwork-Sequence-Models)
 
 </details>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/divider.svg" />
 
-## ✦ Toolkit
+## 🪄 Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,pytorch,tensorflow,sklearn,fastapi,docker,flutter,git,github,vscode&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,pytorch,tensorflow,sklearn,fastapi,docker,flutter,git,github,vscode&theme=light&perline=12" />
 </p>
 
-<br/>
+<img width="100%" src="https://raw.githubusercontent.com/parvxi/parvxi/main/assets/divider.svg" />
 
-## ✦ Activity
+## 🫧 Activity
 
 <details>
 <summary><b>📊 Stats & languages</b></summary>
@@ -112,4 +87,4 @@ Image classifier built on a ResNet-50 backbone with transfer learning, reaching 
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0EA5E9,100:6D28D9&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:C9E9F6,50:E3D5F7,100:F9D5E5&section=footer" />
