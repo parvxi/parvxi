@@ -1,72 +1,69 @@
+<div align="center">
 
-<!--
-**parvxi/parvxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shahad 👋
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Data+Science+%40+Duke+University;Machine+Learning+%7C+NLP+%7C+AI;Turning+data+into+decisions" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Master of Interdisciplinary Data Science (MIDS) @ Duke University** · Computer Science (AI) graduate · Jeddah 🇸🇦 → Durham 🇺🇸
 
-# 👋 Hello, I'm Shahad!
+<a href="https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shahadhatemba@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-I'm a **Computer Scientist** with a keen focus on **Data Science** and **Machine Learning**. Driven by data, I strive to deliver impactful, insight-driven solutions and build innovative models that bring tangible value to projects. 
+</div>
 
 ---
 
-## 🔍 About Me
+## 🧭 About Me
 
-- 💻 **Expertise:** Data Science | Machine Learning | Predictive Modeling | Data Processing
-- 🌱 **Currently Learning:** Advanced Machine Learning techniques and real-world applications
-- 🚀 **Passionate About:** Transforming complex data into insightful, actionable solutions that fuel growth and innovation
+I'm a data scientist in training with a background in **artificial intelligence** and real-world experience driving **digital transformation** in industry. I enjoy the whole journey from messy raw data to a model or insight that someone can actually act on.
 
-> **_"Data is not just numbers; it's the key to unlocking powerful insights and making a difference."_**
-
----
-
-## 📊 GitHub Stats Overview
-
-![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=radical)
-
-### 🔥 Contribution Highlights
-
-- ![Commits](https://img.shields.io/badge/Total%20Commits-300+-blue?style=for-the-badge)
-- ![Projects](https://img.shields.io/badge/Projects-15+-brightgreen?style=for-the-badge)
-- ![Repositories](https://img.shields.io/badge/Repositories-25-orange?style=for-the-badge)
+- 🎓 **Now:** MIDS student at **Duke University** (Class of 2028), studying statistical modeling, NLP, and data engineering
+- 🧠 **Background:** B.Sc. in Computer Science, AI specialization, from **King Abdulaziz University** (First Honors)
+- 🏭 **Experience:** Innovation & Transformation Assistant at **Petrolube Oil Company (ADG Group)**, working on innovation and transformation initiatives
+- 🚀 **KAUST Academy** alumna, including the Women in STEM program
+- 🎯 **Looking for:** Summer 2027 data science / ML internships
+- ☕ **Fun fact:** I'm a specialty coffee enthusiast
 
 ---
 
-## 🏆 Trophies and Streaks
+## 🛠️ Tech Stack
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parvxi&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,pytorch,tensorflow,sklearn,docker,git,github,vscode&theme=dark" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parvxi&theme=radical)
-
----
-
-## 🛠️ Projects
-
-Some recent projects that showcase my skills:
-
-- **Predictive Modeling:** Designed a model predicting company success metrics, with custom feature engineering and preprocessing.
-- **Data Cleaning Pipeline:** Created an end-to-end pipeline for high-volume data processing and insights extraction.
-- **Business Insights:** Developed a tool using NLP and ML for generating actionable insights for businesses based on user data.
+**Focus areas:** Machine Learning · Natural Language Processing · Statistical Modeling · Data Engineering · Signal Processing
 
 ---
 
-## 🌐 Connect with Me
+## 🌟 Featured Projects
 
-- **LinkedIn**: [Shahad K Baalkhashir](https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/)
-- **Email**: [shahadhatemba@gmail.com](mailto:shahadhatemba@gmail.com)
+| Project | Description | Highlights |
+|---|---|---|
+| 🧠 **[Sukoon](#)** | EEG-based emotion recognition system that classifies emotional states from brain signals | 🥈 2nd place, KAU Scientific Forum · Team graduation project |
+| 📈 **[Predictive Modeling](#)** | Model predicting company success metrics with custom feature engineering and preprocessing | Feature engineering · Model evaluation |
+| 🧹 **[Data Cleaning Pipeline](#)** | End-to-end pipeline for processing high-volume data and extracting insights | Automation · Scalable processing |
+| 💡 **[Business Insights Tool](#)** | NLP + ML tool that generates actionable business insights from user data | NLP · Text analytics |
 
 ---
 
-Thank you for stopping by ⭐️!
+## 📊 GitHub Activity
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=parvxi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Data is not just numbers; it's the key to unlocking powerful insights and making a difference."*
+
+⭐ Thanks for stopping by!
+
+</div>
